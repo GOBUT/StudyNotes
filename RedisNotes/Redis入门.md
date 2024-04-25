@@ -8,15 +8,15 @@ Redis（remove dictionary server）基于**内存**的NoSQL数据存储系统。
 
 支持以下类型：
 
-![image-20240425134513024](blob/main/RedisNotes/assets/image-20240425134513024-4023972.png)
+![image-20240425134513024](/assets/image-20240425134513024-4023972.png)
 
 常用方法：
 
-![image-20240425134601138](blob/main/RedisNotes/assets/image-20240425134601138-4023965.png)
+![image-20240425134601138](/assets/image-20240425134601138-4023965.png)
 
 Redis特点：
 
-![image-20240425134644169](blob/main/RedisNotes/assets/image-20240425134644169.png)
+![image-20240425134644169](/assets/image-20240425134644169.png)
 
 ## 2、安装配置
 
@@ -54,7 +54,7 @@ Windows:
 redis-server.exe
 ```
 
-![image-20240425135131986](blob/main/RedisNotes/assets/image-20240425135131986-4024294.png)
+![image-20240425135131986](/assets/image-20240425135131986-4024294.png)
 
 ### 2.3 关闭Redis
 

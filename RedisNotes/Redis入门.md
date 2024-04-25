@@ -8,7 +8,7 @@ Redis（remove dictionary server）基于**内存**的NoSQL数据存储系统。
 
 支持以下类型：
 
-![image-20240425134513024](/Users/pu/Desktop/Redis入门/assets/image-20240425134513024-4023972.png)
+![image-20240425134513024](/assets/image-20240425134513024-4023972.png)
 
 常用方法：
 
